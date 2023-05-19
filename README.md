@@ -4,9 +4,7 @@ Bắt đầu ngôn ngữ lập trình Dart
 
 ## Hướng dẫn 
 
-#### Sử dụng VSC để thực thi Dart
-
-<video width=500 src='./videos/vscode_run_dart_file.mp4' />
+### Sử dụng VSC để thực thi Dart
 
 
 ### Thực thi command line 
