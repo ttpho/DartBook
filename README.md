@@ -7,21 +7,29 @@ Ngôn ngữ lập trình Dart
 
 ### Chương 1
 
-![](./Videos/chapter01.mov)
+
+https://github.com/ttpho/DartBook/assets/3994863/87c362e5-76c1-4508-ba30-8ed2498c7495
+
+
 
 ### Chương 5 
 
 - Hàm main
 
-![](./Videos/chapter05_main.mov)
+
+https://github.com/ttpho/DartBook/assets/3994863/45f802bd-a2f0-435b-9849-fcb573466d9b
+
 
 - Unit test 
 
 ![](./Videos/chapter05_otp_test.mov)
+ 
 
 ### Chương 8
 
 ![](./Videos/chapter08.mov)
+
+
 
 ### Chương 12
 
