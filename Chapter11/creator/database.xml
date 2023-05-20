@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="user">root</string>
+	<string name="port">8080</string>
+	<string name="pass">123456789</string>
+</resource>
+
