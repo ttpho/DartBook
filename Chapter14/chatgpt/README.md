@@ -88,3 +88,10 @@ curl https://api.openai.com/v1/chat/completions \
   }
 }
 ```
+
+
+### prompt 
+
+The CSS code for a color like a blue sky at dusk:
+
+background-color: #
