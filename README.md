@@ -1,6 +1,6 @@
 # Dart Book
 
-Ngôn ngữ lập trình Dart
+Bắt đầu lập trình Dart
 
 
 ## Hướng dẫn 
@@ -40,13 +40,6 @@ https://github.com/ttpho/DartBook/assets/3994863/45f802bd-a2f0-435b-9849-fcb5734
 
 
 ### Chương 14 
-
-Tạo file `Chapter14/chatgpt/.env` với `OPENAI_API_KEY`: 
-
-```yaml
-OPENAI_API_KEY=XXX
-```
-
 
 [![](https://img.youtube.com/vi/I-Ie3j_IkWo/maxresdefault.jpg)](https://www.youtube.com/watch?v=I-Ie3j_IkWo)
 
