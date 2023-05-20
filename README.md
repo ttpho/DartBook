@@ -1,31 +1,44 @@
 # Dart Book
-Bắt đầu ngôn ngữ lập trình Dart
+
+Ngôn ngữ lập trình Dart
 
 
 ## Hướng dẫn 
 
-### Sử dụng VSC để thực thi Dart
+### Chương 1
 
-[Video](https://github.com/ttpho/DartBook/blob/main/videos/vscode_run_dart_file.mp4)
+![](./Videos/chapter01.mov)
 
+### Chương 5 
 
+- Hàm main
 
-https://github.com/ttpho/DartBook/assets/3994863/14e91f10-3f89-4cd1-816e-b8df4d56ec0d
+![](./Videos/chapter05_main.mov)
 
+- Unit test 
 
+![](./Videos/chapter05_otp_test.mov)
 
-### Thực thi command line 
+### Chương 8
 
+![](./Videos/chapter08.mov)
 
-### Thực thi unit test
-
-
-### Sử dụng DartJ
+### Chương 12
 
 [DartJ](https://dartj.web.app/#/)
 
+![](./Videos/chapter12_dartj.mov)
 
-### Ứng dụng ChatGPT flow
+
+### Chương 14 
+
+Tạo file `Chapter14/chatgpt/.env` với `OPENAI_API_KEY`: 
+
+```yaml
+OPENAI_API_KEY=XXX
+```
+
+![](./Videos/chapter14_chatgpt.mov)
 
 
 
