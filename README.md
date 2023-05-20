@@ -22,20 +22,21 @@ https://github.com/ttpho/DartBook/assets/3994863/45f802bd-a2f0-435b-9849-fcb5734
 
 - Unit test 
 
-![](./Videos/chapter05_otp_test.mov)
- 
+[![](https://img.youtube.com/vi/XTQKXER3xUI/maxresdefault.jpg)](https://www.youtube.com/watch?v=XTQKXER3xUI)
+
 
 ### Chương 8
 
-![](./Videos/chapter08.mov)
 
+[![](https://img.youtube.com/vi/TckEQxnU6Cc/maxresdefault.jpg)](https://www.youtube.com/watch?v=TckEQxnU6Cc)
 
 
 ### Chương 12
 
 [DartJ](https://dartj.web.app/#/)
 
-![](./Videos/chapter12_dartj.mov)
+
+[![](https://img.youtube.com/vi/QcxYOoVNHL4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QcxYOoVNHL4)
 
 
 ### Chương 14 
@@ -46,7 +47,8 @@ Tạo file `Chapter14/chatgpt/.env` với `OPENAI_API_KEY`:
 OPENAI_API_KEY=XXX
 ```
 
-![](./Videos/chapter14_chatgpt.mov)
+
+[![](https://img.youtube.com/vi/I-Ie3j_IkWo/maxresdefault.jpg)](https://www.youtube.com/watch?v=I-Ie3j_IkWo)
 
 
 
