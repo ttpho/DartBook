@@ -27,19 +27,23 @@ https://github.com/ttpho/DartBook/assets/3994863/45f802bd-a2f0-435b-9849-fcb5734
 
 ### Chương 8
 
+BMI console 
 
 [![](https://img.youtube.com/vi/TckEQxnU6Cc/maxresdefault.jpg)](https://www.youtube.com/watch?v=TckEQxnU6Cc)
 
 
-### Chương 12
+### Chương 12 
 
 [DartJ](https://dartj.web.app/#/)
 
+DartJ và freezed
 
 [![](https://img.youtube.com/vi/QcxYOoVNHL4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QcxYOoVNHL4)
 
 
 ### Chương 14 
+
+ChatGPT 
 
 [![](https://img.youtube.com/vi/I-Ie3j_IkWo/maxresdefault.jpg)](https://www.youtube.com/watch?v=I-Ie3j_IkWo)
 
