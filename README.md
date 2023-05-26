@@ -36,7 +36,11 @@ BMI console
 
 [DartJ](https://dartj.web.app/#/)
 
-DartJ và freezed
+- Thao tác DartJ và JSON 
+
+https://github.com/ttpho/freezed/assets/3994863/6d15845a-52a8-4b7f-85be-182561862dae
+
+- Thao tác DartJ gen code class [freezed](https://pub.dev/packages/freezed)
 
 [![](https://img.youtube.com/vi/QcxYOoVNHL4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QcxYOoVNHL4)
 
